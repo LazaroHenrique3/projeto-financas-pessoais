@@ -1,4 +1,4 @@
-# Analisador de números
+# Finanças pessoais
 
 Projeto Javascript simples que permite cadastrar despesas a serem pagas.
 
